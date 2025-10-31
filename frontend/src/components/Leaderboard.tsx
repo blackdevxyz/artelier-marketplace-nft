@@ -29,7 +29,12 @@ const leaderboardData = {
     { id: 10, name: "ChainChad", avatar: "/avatars/10.png", score: 7700 },
   ],
   collectors: [
-    { id: 1, name: "ArtFiend", avatar: "/avatars/1.png", score: 9400 },
+    {
+      id: 1,
+      name: "ArtFiend",
+      avatar: "/src/assets/Blockchain.png",
+      score: 9400,
+    },
     { id: 2, name: "NFTNinja", avatar: "/avatars/2.png", score: 9050 },
     { id: 3, name: "TokenMuse", avatar: "/avatars/3.png", score: 8880 },
     { id: 4, name: "MetaMaven", avatar: "/avatars/4.png", score: 8700 },
