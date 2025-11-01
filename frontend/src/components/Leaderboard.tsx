@@ -99,11 +99,7 @@ export default function Leaderboard() {
                   {entry.id}
                 </span>
                 <div className="relative w-10 h-10 rounded-full overflow-hidden">
-                  <img
-                    src={entry.avatar}
-                    alt={entry.name}
-                    className="object-cover"
-                  />
+                  <img src={entry.avatar} alt={entry.name} className="" />
                 </div>
                 <span className="font-medium">{entry.name}</span>
               </div>
