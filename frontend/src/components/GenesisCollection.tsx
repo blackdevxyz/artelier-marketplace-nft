@@ -1,12 +1,12 @@
 import NFTCard from "./NFTCard";
-import nft1 from "@/assets/nft-1.jpg";
-import nft2 from "@/assets/nft-2.jpg";
-import nft3 from "@/assets/nft-3.jpg";
-import nft4 from "@/assets/nft-4.jpg";
-import nft5 from "@/assets/nft-5.jpg";
-import nft6 from "@/assets/nft-6.jpg";
-import nft7 from "@/assets/nft-7.jpg";
-import nft8 from "@/assets/nft-8.jpg";
+import nft1 from "/assets/nft-1.jpg";
+import nft2 from "/assets/nft-2.jpg";
+import nft3 from "/assets/nft-3.jpg";
+import nft4 from "/assets/nft-4.jpg";
+import nft5 from "/assets/nft-5.jpg";
+import nft6 from "/assets/nft-6.jpg";
+import nft7 from "/assets/nft-7.jpg";
+import nft8 from "/assets/nft-8.jpg";
 
 const nfts = [
   { id: "001", title: "Blackdev", image: nft1 },
