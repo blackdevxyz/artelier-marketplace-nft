@@ -6,6 +6,8 @@ interface NFTCardProps {
   id: string;
 }
 
+// Nft card
+
 const NFTCard = ({ image, title, id }: NFTCardProps) => {
   return (
     <Card className="group overflow-hidden gradient-card border-border hover:border-primary transition-smooth cursor-pointer">
